@@ -1,0 +1,84 @@
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\ApplicationInsights.config
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Berg Book House.dll.config
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Berg Book House.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Berg Book House.pdb
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Antlr3.Runtime.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\EntityFramework.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\EntityFramework.SqlServer.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AI.Agent.Intercept.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AI.DependencyCollector.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AI.PerfCounterCollector.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AI.ServerTelemetryChannel.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AI.Web.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AI.WindowsServer.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.ApplicationInsights.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AspNet.Identity.Core.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Security.Cookies.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Security.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Security.Facebook.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Security.Google.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Security.OAuth.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Security.Twitter.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Web.Infrastructure.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Newtonsoft.Json.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Owin.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\System.Web.Helpers.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\System.Web.Mvc.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\System.Web.Optimization.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\System.Web.Razor.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\System.Web.WebPages.Deployment.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\System.Web.WebPages.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\System.Web.WebPages.Razor.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\WebGrease.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\System.Web.Helpers.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\System.Web.Mvc.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\System.Web.Optimization.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\System.Web.Razor.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\System.Web.WebPages.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\System.Web.WebPages.Deployment.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\System.Web.WebPages.Razor.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Antlr3.Runtime.pdb
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Newtonsoft.Json.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\EntityFramework.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\EntityFramework.SqlServer.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AspNet.Identity.Core.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Security.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Security.Facebook.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Security.Cookies.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Security.OAuth.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Security.Google.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Security.Twitter.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.ApplicationInsights.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AI.DependencyCollector.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AI.ServerTelemetryChannel.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AI.WindowsServer.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\bin\Microsoft.AI.Web.xml
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg Book House.csproj.CoreCompileInputs.cache
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg Book House.dll
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg Book House.pdb
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg_Book_House.Migrations.InitialModel.resources
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg Book House.csproj.GenerateResource.Cache
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg Book House.csprojAssemblyReference.cache
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg Book House.csproj.CopyComplete
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg_Book_House.Migrations.AddDataAnnotaionToStringTypes.resources
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg_Book_House.Migrations.SeedTheTableNamedCategories.resources
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg_Book_House.Migrations.AddingCoverPhotoInBookTable.resources
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg_Book_House.Migrations.ChangeAuthorFromForeignKeyToNormalColumnBookTbl.resources
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg_Book_House.Migrations.PendingTrivial.resources
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg_Book_House.Migrations.PreventIdFromAutoAssigning.resources
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg_Book_House.Migrations.AddPurposePropToBookModel.resources
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg_Book_House.Migrations.DeletePurposePropToBookModel.resources
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg_Book_House.Migrations.AddBookWishListModel.resources
+A:\05-Practice\MVC\Berg Book House\Berg Book House\obj\Debug\Berg_Book_House.Migrations.AddingDataAnnotationToId.resources

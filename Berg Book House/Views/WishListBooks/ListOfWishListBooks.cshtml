@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Berg_Book_House.Models.WishListBook>
+@{
+    ViewBag.Title = "ListOfWishListBooks";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    @Html.ActionLink("Add a Book to Wishlist", "New", new { controller = "WishListBooks" }, new { @class = "btn btn-info" })
+</div>
+
+<div>
+    <h2>Here's the Wishlist</h2>
+    <table class="table table-bordered">
+        <thead>
+            <tr class="table-info">
+                <th scope="col" style="width: 6.66%">#</th>
+                <th scope="col" style="width: 12.66%">Cover</th>
+                <th scope="col" style="width: 12.66%">Title</th>
+                <th scope="col" style="width: 12.66%">Author</th>
+                <th scope="col" style="width: 12.66%">Catogory</th>
+                <th scope="col" style="width: 17.66%">Reason to Consider</th>
+                <th scope="col" style="width: 12.66%">Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                int i = 1;
+            }
+
+            @foreach (var wish in Model)
+            {
+            <tr>
+                <th scope="row">@i</th>
+                <td>
+                    @{
+                        var base64 = Convert.ToBase64String(wish.BookCover);
+                        var imgsrc = string.Format("data:image/jpg;base64,{0}", base64);
+
+                    }
+                    <img src='@imgsrc' style="width: 100px; height: 130px">
+                </td>
+
+                <td>
+                    @Html.ActionLink(wish.Name, "Edit", "WishListBooks", new { id = wish.Id }, null)
+                </td>
+
+                <td>@wish.Author</td>
+
+                <td>@wish.Category.Name</td>
+
+                <td>@wish.Purpose</td>
+
+                <td>
+                    @Html.ActionLink("Delete","DeleteWish", "WishListBooks", new { id = wish.Id }, null)
+                </td>
+            </tr>
+                i++;
+            }
+
+        </tbody>
+
+    </table>
+
+</div>

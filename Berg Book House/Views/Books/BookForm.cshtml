@@ -1,0 +1,51 @@
+﻿@model Berg_Book_House.ViewModel.BookFormViewModel
+@{
+    ViewBag.Title = Model.Title;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="container">
+    <div class="page-header">
+        <h2>@Model.Title</h2>        
+
+    </div>
+    @using (Html.BeginForm("Save", "Books", FormMethod.Post, new { encType = "multipart/form-data" }))
+    {
+    <div class="form-group">
+               
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+             
+        @Html.LabelFor(m => m.Author)
+        @Html.TextBoxFor(m => m.Author, new { @class = "form-control" })
+    </div>
+
+        <div class="form-group">
+            @*@Html.LabelFor(m => m.CategoryId)*@
+            <label for="b => b.CategoryId">Category</label>
+            @Html.DropDownListFor(b => b.CategoryId,
+           new SelectList(Model.Categories, "CategoryId", "Name"),
+           "---Select A Category---",
+           new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label for="b => b.UploadCoverPhoto">Cover</label>
+          
+
+            @Html.TextBoxFor(b => b.UploadCoverPhoto, new { type = "file", name = "UploadCoverPhoto" })
+        </div>
+
+
+        @Html.HiddenFor(b => b.Id);
+        <div class="form-group">
+         <button type="submit" class="btn btn-primary btn-lg">Save</button>   
+        </div>
+    }
+
+</div>

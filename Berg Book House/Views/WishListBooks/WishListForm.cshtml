@@ -1,0 +1,46 @@
+﻿@model Berg_Book_House.ViewModel.WishListBookViewModel
+@{
+    ViewBag.Title = Model.Title;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Title</h2>
+
+@using (Html.BeginForm("Save", "WishListBooks", FormMethod.Post, new { encType = "multipart/form-data" }))
+{
+    <div class="form-group">
+
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+
+        @Html.LabelFor(m => m.Author)
+        @Html.TextBoxFor(m => m.Author, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(c => c.CategoryId)
+        @Html.DropDownListFor(c => c.CategoryId,
+                                new SelectList(Model.Categories, "CategoryId", "Name"),
+                                "---Select A Category---",
+                                new { @class = "form-control"})
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Purpose)
+        @Html.TextAreaFor(m => m.Purpose, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.BookCover)
+        @Html.TextBoxFor(m => m.BookCover, new { type = "file", name = "BookCover" })
+    </div>
+
+
+    @Html.HiddenFor(m => m.Id);
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary btn-lg">Save</button>
+    </div>
+}
